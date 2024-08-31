@@ -28,9 +28,6 @@ public class PrimeNumber {
         }catch (Exception e){
            System.out.println("Input Mismatch Exception found");
         }
-
-
-
     }
 }
 

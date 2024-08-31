@@ -12,7 +12,6 @@ public class AddTwoNumbers {
             int b =in.nextInt();
             int c= a+b;
             System.out.println("The result is"+" "+c);
-
         }
         catch (Exception e){
             System.out.println("Input Mismatch Exception found");
