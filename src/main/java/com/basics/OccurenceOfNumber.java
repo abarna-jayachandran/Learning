@@ -14,7 +14,7 @@ public class OccurenceOfNumber {
                 count++;
             num = num / 10; //123/10=means 1234
         }
-        System.out.println("3 is repeating"+" "+count+" "+"times in the given number");
+        System.out.println(count);
 
     }
 }
